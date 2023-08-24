@@ -1,0 +1,6 @@
+ru/tsystems/devschool/controller/MentorControllerTest.java
+ ru.tsystems.devschool.controller.MentorControllerTest
+ru/tsystems/devschool/controller/CourseControllerTest.java
+ ru.tsystems.devschool.controller.CourseControllerTest
+ru/tsystems/devschool/controller/SchoolControllerTest.java
+ ru.tsystems.devschool.controller.SchoolControllerTest
